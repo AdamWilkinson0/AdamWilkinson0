@@ -1,5 +1,5 @@
 # About Me:
-1st-year CompSci student @ University of Southampton<br>Currently learning C, Python & Web Dev<br>Created Terrivia.com, a geography based trivia game<br>Looking for opportunities to learn more & gain industry experience<br>
+2nd-year CompSci student @ University of Southampton<br>Currently learning C, Python & Web Dev<br>Created Terrivia.com, a geography based trivia game<br>Looking for opportunities to learn more & gain industry experience<br>
 
 
 ## Socials:
